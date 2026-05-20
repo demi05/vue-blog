@@ -78,13 +78,13 @@ src
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/vue-blog-project.git
+git clone [https://github.com/demi05/vue-blog]
 ```
 
 Move into project folder:
 
 ```bash
-cd vue-blog-project
+cd vue-blog
 ```
 
 Install dependencies:
