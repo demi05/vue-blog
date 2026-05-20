@@ -194,7 +194,7 @@ This ensures all routes are redirected back to the Vue application before routin
 Add screenshot:
 
 ```text
-screenshots/home.png
+<img width="1348" height="605" alt="image" src="https://github.com/user-attachments/assets/90d953f5-c30c-49cb-8594-df4558503fea" />
 ```
 
 ### Post Detail Page
@@ -202,7 +202,7 @@ screenshots/home.png
 Add screenshot:
 
 ```text
-screenshots/post.png
+<img width="1347" height="609" alt="image" src="https://github.com/user-attachments/assets/6e57bfc4-d921-472f-bf1d-c336ef15439a" />
 ```
 
 ### Not Found Page
@@ -210,7 +210,7 @@ screenshots/post.png
 Add screenshot:
 
 ```text
-screenshots/notfound.png
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/13162474-09d8-43af-8b5b-252ddd0d111b" />
 ```
 
 ---
