@@ -78,7 +78,7 @@ src
 Clone the repository:
 
 ```bash
-git clone [https://github.com/demi05/vue-blog]
+git clone https://github.com/demi05/vue-blog
 ```
 
 Move into project folder:
